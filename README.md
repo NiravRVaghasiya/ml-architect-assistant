@@ -13,7 +13,7 @@ This prompt turns any capable LLM (ChatGPT, Claude, Gemini, etc.) into an expert
 
 ## How to Use
 
-1. Copy the contents of [`ml_architect_assistant.md`](./ml_architect_assistant.md)
+1. Copy the contents of [`SKILL.md`](./SKILL.md)
 2. Paste it as a **system prompt** or **custom instruction** in your preferred AI tool:
    - **ChatGPT** -- Settings > Personalization > Custom Instructions
    - **Claude** -- Start a new Project and paste it in the Project Instructions
