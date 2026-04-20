@@ -1,4 +1,5 @@
 ---
+name: ml-architect-assistant
 title: "ML Architect Assistant"
 description: "A code-first ML Architect Assistant prompt for building, debugging, and reviewing machine learning projects."
 author: "NiravRVaghasiya"
